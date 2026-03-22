@@ -1,4 +1,4 @@
-# Secure Music SChool API
+# Secure Music School API
 
 A cybersecurity-focused backend project demonstrating secure authentication,  
 authorization, and token validation techniques.
